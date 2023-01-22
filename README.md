@@ -33,4 +33,4 @@ const clonata = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with people</b> so if you want to say <b>hi</b>, I'll be happy to! :)</em>
+<em><b>I love connecting with people</b> so if you want to say <b>hi</b>, I'll be happy to! :)</em>
