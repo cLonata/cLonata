@@ -1,6 +1,6 @@
 ## **Branches**
 
-The main branch should be named main.
+The main branch should be named *main.*
 The people working on a product decide if they want to work with further branches.
 
 If you need further branches, it is advisable, to add the number of the issue and a short title inside of a branch name, e. g.:
