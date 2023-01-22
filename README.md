@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p>
  <em>
-  Lead Developer at <a href="https://www.idmodz.com">IDModz</a></br>
+  Lead Developer at <a href="https://idmodz.com">IDModz</a></br>
  </em>
 </p>
 
@@ -33,4 +33,4 @@ const clonata = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with people</b> so if you want to say <b>hi</b>, I'll be happy to! :)</em>
