@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 ```javascript
 const clonata = {
-  code: [PHP, Javascript, Typescript, HTML, CSS],
-  tools: [React, Redux, Node, Nginx, Laravel, MongoDB],
+  code: [PHP, Javascript, HTML, CSS],
+  tools: [React, Redux, NextJS, Nginx, TailwindCSS, Postgres],
   challenge: "Stay focused on practicing"
 }
 ```
